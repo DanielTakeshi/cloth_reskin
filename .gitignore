@@ -1,0 +1,13 @@
+*.vscode
+*.swo
+*.swp
+*.png
+*.avi
+logs/
+data/
+*_data_*/
+data_*/
+ptdata/
+wandb/
+figures/
+results/
