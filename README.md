@@ -134,12 +134,15 @@ scalers as well, for normalization.
 If you find the code helpful, consider citing the following paper:
 
 ```
-@inproceedings{tirumala2022,
-  title     = {{Learning to Singulate Layers of Cloth based on Tactile Feedback}},
-  author    = {Sashank Tirumala and Thomas Weng and Daniel Seita and Oliver Kroemer and Zeynep Temel and David Held},
-  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year      = {2022},
-}
+@INPROCEEDINGS{tirumala2022reskin,
+  author={Tirumala, Sashank and Weng, Thomas and Seita, Daniel and Kroemer, Oliver and Temel, Zeynep and Held, David},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Learning to Singulate Layers of Cloth using Tactile Feedback}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={7773-7780},
+  doi={10.1109/IROS47612.2022.9981341}}
 ```
 
 
