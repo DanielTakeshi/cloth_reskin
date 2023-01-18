@@ -2,8 +2,10 @@
 
 This is for our IROS 2022 paper on tactile sensing for cloth manipulation
 **([arXiv link][3], [project website][4])**. We used this code for the kNN
-classifier experiments reported in the paper. If you have questions about the
-code, please use the GitHub issues tracker.
+classifier experiments reported in the paper. **For the code to run the
+robot, [use this other code][5]**.
+
+If you have questions about the code, please use the GitHub issues tracker.
 
 Contents:
 
@@ -150,3 +152,4 @@ If you find the code helpful, consider citing the following paper:
 [2]:https://drive.google.com/file/d/1UEbsFz4v04cDbgAH9a4J8-sZPPXos02z/view?usp=sharing
 [3]:https://arxiv.org/abs/2207.11196
 [4]:https://sites.google.com/view/reskin-cloth/
+[5]:https://github.com/sashank-tirumala/cloth_reskin_ros
